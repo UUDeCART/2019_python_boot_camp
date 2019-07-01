@@ -10,9 +10,10 @@ Using case-based learning, students will learn foundational biomedical data scie
 
 ## Prerequisites
 
-DeCARAT Biomedical Data Science Bootcamp, Part 1: Computing Environments
+DeCART Biomedical Data Science Bootcamp, Part 1: Computing Environments
 
 ## Links
 
 * [http://bit.ly/decart_usernames](http://bit.ly/decart_usernames)
 * [http://bit.ly/decart_python_slack](http://bit.ly/decart_python_slack)
+* [decart.jupyter.med.utah.edu](decart.jupyter.med.utah.edu)
