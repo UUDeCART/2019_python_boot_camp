@@ -1,0 +1,14 @@
+name: uudecart-bootcamp
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - jupyter
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  - pip
+  - pip:
+    - nose
+
